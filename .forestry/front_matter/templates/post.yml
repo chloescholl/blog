@@ -26,3 +26,5 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+pages:
+- content/clothing-a-newborn-what-you-need-and-don-t-need.md
