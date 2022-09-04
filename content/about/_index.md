@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-05-14T14:46:10.000+06:00
+date: 2022-09-04T01:46:10+00:00
 description: Hello! I'm The Crunchy Momma
 image: "/images/img_0576.JPG"
 categories:
