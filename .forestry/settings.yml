@@ -16,6 +16,8 @@ sections:
   label: About
   create: none
   match: "*"
+  templates:
+  - post
 - type: directory
   path: content/contact
   label: Contact
